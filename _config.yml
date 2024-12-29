@@ -1,4 +1,2 @@
-title: Your Site Title
-description: A description of your site
 theme: jekyll-theme-hacker
 Create _config.yml to apply theme configuration
